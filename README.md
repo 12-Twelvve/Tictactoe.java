@@ -1,4 +1,5 @@
 # Tictactoe.java
 
-MIN MAX - AI
+MIN MAX 
+----------
 Human vs AI
